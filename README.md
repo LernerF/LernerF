@@ -62,18 +62,6 @@ Outside of engineering I practice **freestyle wrestling**, which has taught me d
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LernerF&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LernerF&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
 ## Featured Projects
 
 | Project | Description |
@@ -110,9 +98,3 @@ Outside of engineering I practice **freestyle wrestling**, which has taught me d
 </p>
 
 ---
-
-<div align="center">
-
-### Engineering with discipline.
-
-</div>
