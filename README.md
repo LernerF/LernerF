@@ -13,9 +13,10 @@ Building reliable data systems.
   <img src="https://github.com/LernerF/LernerF/blob/main/Wrest.png?raw=true" width="180" alt="Wrest"/>
 </div>
 
-<h3 align="center" style="margin-top: -100px;">
-  Building reliable data pipelines... 💪
-</h3>
+<!-- Анимированный текст -->
+<p align="center" style="margin-top: -100px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=e63946&center=true&vCenter=true&width=500&lines=Building+reliable+data+pipelines...+💪;Data+Engineer+%7C+Backend+Developer;Python+%7C+SQL+%7C+Spark+%7C+Kafka;Wrestling+taught+me+discipline+🤼" alt="Typing SVG"/>
+</p>
 
 ---
 
@@ -61,7 +62,7 @@ Outside of engineering, I enjoy freestyle wrestling, which has taught me discipl
 
 ## Projects
 
-###  Data Warehouse
+### 📊 Data Warehouse
 
 Analytical database based on the Snowflake schema.
 
@@ -91,10 +92,10 @@ Implementation of matrix computations using CUDA.
 
 ---
 
-##  Contacts
+## 📬 Contacts
 
 <p align="center">
-  <a href="mailto:felixler2005@icloud.com.com">
+  <a href="mailto:felixler2005@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
