@@ -10,7 +10,7 @@ Building reliable data systems.
 
 <!-- Пиксельный борец справа -->
 <div align="right" style="margin-top: -450px; margin-right: 50px;">
-  <img src="https://github.com/LernerF/LernerF/blob/main/wrestler.png?raw=true" width="180" alt="Wrestler"/>
+  <img src="https://github.com/LernerF/LernerF/blob/main/Pixel-Wrestler.png?raw=true" width="180" alt="Pixel-Wrestler"/>
 </div>
 
 ---
