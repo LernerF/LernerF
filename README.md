@@ -2,101 +2,78 @@
 
 # Felix Lerner
 
-### Data Engineer @ RWB
+### Data Engineering Intern @ RWB
 
 Building reliable data systems.
 
 </div>
 
-<!-- Пиксельный борец СПРАВА -->
+<!-- Pixel Wrestler -->
 <div align="right" style="margin-top: -150px; margin-right: 100px;">
-  <img src="https://github.com/LernerF/LernerF/blob/main/Wrest.png?raw=true" width="150" alt="Wrest"/>
+  <img src="https://github.com/LernerF/LernerF/blob/main/Wrest.png?raw=true" width="150" alt="Wrestler"/>
 </div>
 
-<!-- Анимированный текст -->
+<!-- Typing -->
 <p align="center" style="margin-top: -120px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=e63946&center=true&vCenter=true&width=500&lines=Building+reliable+data+pipelines...+💪;Data+Engineer+%7C+Backend+Developer;Python+%7C+SQL+%7C+Spark+%7C+Kafka" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=600&color=e63946&center=true&vCenter=true&width=600&lines=Building+reliable+data+pipelines...;Python+%7C+SQL+%7C+Spark+%7C+Kafka;Always+learning+something+new." alt="Typing SVG"/>
 </p>
 
 ---
 
 ## About
 
-I'm a Data Engineer currently working at **RWB** and studying **Applied Mathematics & Informatics**.
+| | |
+|:--|:--|
+| 🎓 **Education** | Applied Mathematics & Informatics |
+| 💼 **Experience** | Completed Data Engineering Internship at **RWB** |
+| ⚙️ **Interests** | Data Engineering • Backend • Distributed Systems |
+| 🤼 **Outside Tech** | Freestyle Wrestling |
 
-I'm passionate about designing reliable data pipelines, solving engineering problems and continuously improving my technical skills.
-
-Outside of engineering, I enjoy freestyle wrestling, which has taught me discipline, consistency and resilience.
+I enjoy building reliable data pipelines, learning distributed systems, and solving engineering problems through clean and practical solutions.
 
 ---
 
-## Tech Stack
-
-**Languages**
+## Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 </p>
 
-**Data**
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
-</p>
+## Featured Projects
 
-**Tools**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+| Project | Description | Stack |
+|:---------|:------------|:------|
+| 📊 **Data Warehouse** | Analytical warehouse based on the Snowflake schema | PostgreSQL • SQL |
+| 🔄 **ETL Pipeline** | Automated data collection, transformation and loading | Python • PostgreSQL |
+| ⚡ **CUDA Matrix Solver** | Parallel matrix computations using CUDA | CUDA • C++ |
 
 ---
 
-## Projects
-
-### 📊 Data Warehouse
-
-Analytical database based on the Snowflake schema.
-
-**Stack:** 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-
----
-
-### 🔄 ETL Pipeline
-
-A Python pipeline for collecting, transforming and loading data.
-
-**Stack:** 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-
----
-
-###  CUDA Matrix Solver
-
-Implementation of matrix computations using CUDA.
-
-**Stack:** 
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-
----
-
-## 📬 Contacts
+## 📬 Contact
 
 <p align="center">
   <a href="mailto:felixler2005@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -104,8 +81,8 @@ Implementation of matrix computations using CUDA.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 
-*Engineering with discipline.*
+### Data • Discipline • Consistency
 
 </div>
