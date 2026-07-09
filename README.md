@@ -109,6 +109,5 @@ Implementation of matrix computations using CUDA.
 <!-- Анимированная линия -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer"/>
 
-*Engineering with discipline.*
 
 </div>
