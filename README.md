@@ -8,14 +8,13 @@ Building reliable data systems.
 
 </div>
 
-<!-- Пиксельный борец слева -->
-<div align="left" style="margin-bottom: 20px;">
+<!-- Пиксельный борец СПРАВА -->
+<div align="right" style="margin-top: -150px; margin-right: 100px;">
   <img src="https://github.com/LernerF/LernerF/blob/main/Wrest.png?raw=true" width="180" alt="Wrest"/>
 </div>
 
-<!-- Анимированный текст -->
-<h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=typing&color=e63946&height=50&section=header&text=Building%20reliable%20data%20pipelines...&fontSize=20&fontColor=ffffff&animation=twinkle" alt="Typing"/>
+<h3 align="center" style="margin-top: -100px;">
+  Building reliable data pipelines... 💪
 </h3>
 
 ---
@@ -105,5 +104,7 @@ Implementation of matrix computations using CUDA.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer"/>
+
+*Engineering with discipline.*
 
 </div>
