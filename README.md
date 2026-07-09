@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Баннер -->
-<img src="https://github.com/LernerF/LernerF/blob/main/banner.png" width="100%" alt="Banner"/>
-
 # Felix Lerner
 
 ### Data Engineer @ RWB
