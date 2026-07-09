@@ -6,8 +6,8 @@
 
 Building reliable data systems.
 
-<!-- Анимированный борец -->
-<img src="https://github.com/LernerF/LernerF/blob/main/wrestler.svg" width="150" alt="Wrestler" align="right" style="margin-top: -300px;"/>
+<!-- Пиксельный борец -->
+<img src="https://github.com/LernerF/LernerF/blob/main/wrestler.svg" width="200" alt="Wrestler"/>
 
 </div>
 
@@ -55,7 +55,7 @@ Outside of engineering, I enjoy freestyle wrestling, which has taught me discipl
 
 ## Projects
 
-### 📊 Data Warehouse
+###  Data Warehouse
 
 Analytical database based on the Snowflake schema.
 
@@ -75,7 +75,7 @@ A Python pipeline for collecting, transforming and loading data.
 
 ---
 
-###  CUDA Matrix Solver
+### ⚡ CUDA Matrix Solver
 
 Implementation of matrix computations using CUDA.
 
@@ -85,7 +85,7 @@ Implementation of matrix computations using CUDA.
 
 ---
 
-## 📬 Contacts
+##  Contacts
 
 <p align="center">
   <a href="https://t.me/your_username">
@@ -106,5 +106,6 @@ Implementation of matrix computations using CUDA.
 <!-- Анимированная линия -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer"/>
 
+*Engineering with discipline.*
 
 </div>
