@@ -6,9 +6,11 @@
 
 Building reliable data systems.
 
-<!-- Пиксельный борец -->
-<img src="https://github.com/LernerF/LernerF/blob/main/wrestler.png?raw=true" width="200" alt="Pixel Wrestler"/>
+</div>
 
+<!-- Пиксельный борец справа -->
+<div align="right" style="margin-top: -450px; margin-right: 50px;">
+  <img src="https://github.com/LernerF/LernerF/blob/main/wrestler.png?raw=true" width="180" alt="Wrestler"/>
 </div>
 
 ---
@@ -55,7 +57,7 @@ Outside of engineering, I enjoy freestyle wrestling, which has taught me discipl
 
 ## Projects
 
-### 📊 Data Warehouse
+###  Data Warehouse
 
 Analytical database based on the Snowflake schema.
 
