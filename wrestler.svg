@@ -1,97 +1,101 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 320" width="220" height="320">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" width="200" height="200" shape-rendering="crispEdges">
   <defs>
     <style>
-      @keyframes fight {
-        0%, 100% { transform: translateY(0) rotate(0deg); }
-        25% { transform: translateY(-5px) rotate(-2deg); }
-        75% { transform: translateY(-3px) rotate(2deg); }
+      @keyframes breathe {
+        0%, 100% { transform: translateY(0) scaleY(1); }
+        50% { transform: translateY(-2px) scaleY(1.02); }
       }
-      @keyframes armMove {
-        0%, 100% { transform: rotate(0deg); }
-        50% { transform: rotate(-15deg); }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 0.6; }
       }
-      @keyframes shadowPulse {
-        0%, 100% { opacity: 0.4; transform: scaleX(1) scaleY(1); }
-        50% { opacity: 0.2; transform: scaleX(0.85) scaleY(0.8); }
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-3px); }
       }
-      .fighter { animation: fight 2s ease-in-out infinite; transform-origin: bottom center; }
-      .leftArm { animation: armMove 2s ease-in-out infinite; transform-origin: 70px 140px; }
-      .rightArm { animation: armMove 2s ease-in-out infinite reverse; transform-origin: 150px 140px; }
-      .shadow { animation: shadowPulse 2s ease-in-out infinite; transform-origin: center; }
+      .wrestler { animation: breathe 2s ease-in-out infinite; transform-origin: center bottom; }
+      .shadow { animation: pulse 2s ease-in-out infinite; }
+      .whole { animation: float 3s ease-in-out infinite; }
     </style>
   </defs>
   
-  <!-- Динамическая тень -->
-  <ellipse class="shadow" cx="110" cy="310" rx="60" ry="10" fill="#000"/>
+  <!-- Фон  -->
+  <rect width="320" height="320" fill="none"/>
   
-  <g class="fighter">
-    <!-- Эффект движения (линии скорости) -->
-    <line x1="20" y1="100" x2="60" y2="110" stroke="#ff6b6b" stroke-width="2" opacity="0.6" stroke-dasharray="5,3">
-      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="2s" repeatCount="indefinite"/>
-    </line>
-    <line x1="10" y1="120" x2="50" y2="125" stroke="#ff6b6b" stroke-width="2" opacity="0.4" stroke-dasharray="5,3"/>
+  <g class="whole">
+    <!-- Тень -->
+    <rect x="120" y="295" width="80" height="8" fill="#1a474a" opacity="0.4" class="shadow"/>
     
-    <!-- Ноги в боевой стойке -->
-    <path d="M85 210 Q75 250 70 290 L85 290 Q88 250 95 210Z" fill="#e8c4a0"/>
-    <path d="M115 210 Q125 250 135 290 L150 290 Q142 250 130 210Z" fill="#e8c4a0"/>
-    
-    <!-- Ботинки -->
-    <path d="M68 285 Q70 300 90 298 L92 285Z" fill="#1a1a1a"/>
-    <path d="M133 285 Q148 300 152 295 L150 285Z" fill="#1a1a1a"/>
-    
-    <!-- Тело (наклонено вперед) -->
-    <path d="M80 120 Q75 170 78 210 L92 210 Q90 170 93 125Z" fill="#cc0000"/>
-    <path d="M120 120 Q125 170 122 210 L108 210 Q110 170 107 125Z" fill="#cc0000"/>
-    <rect x="93" y="120" width="34" height="90" rx="6" fill="#cc0000"/>
-    <rect x="107" y="120" width="8" height="90" fill="#1a1a1a"/>
-    
-    <!-- Пояс -->
-    <rect x="90" y="195" width="40" height="12" rx="3" fill="#1a1a1a"/>
-    <rect x="105" y="197" width="10" height="8" fill="#ffd700"/>
-    
-    <!-- Руки в боевой позиции (с анимацией) -->
-    <g class="leftArm">
-      <path d="M93 130 Q70 140 60 160 Q55 165 58 170 Q62 172 67 168 Q78 150 98 140Z" fill="#e8c4a0"/>
-      <rect x="53" y="162" width="14" height="12" rx="3" fill="#1a1a1a"/>
+    <g class="wrestler">
+      <!-- Ноги -->
+      <rect x="135" y="240" width="25" height="35" fill="#fdbcb4"/>
+      <rect x="160" y="240" width="25" height="35" fill="#fdbcb4"/>
+      
+      <!-- Ботинки красные -->
+      <rect x="132" y="270" width="20" height="12" fill="#e63946"/>
+      <rect x="168" y="270" width="20" height="12" fill="#e63946"/>
+      <rect x="132" y="268" width="20" height="4" fill="#ff6b6b"/>
+      <rect x="168" y="268" width="20" height="4" fill="#ff6b6b"/>
+      
+      <!-- Тело (красная борцовка) -->
+      <rect x="140" y="180" width="40" height="65" fill="#e63946"/>
+      <rect x="138" y="180" width="6" height="60" fill="#d62839"/>
+      <rect x="176" y="180" width="6" height="60" fill="#d62839"/>
+      
+      <!-- Черная полоса на борцовке -->
+      <rect x="157" y="180" width="6" height="65" fill="#1a1a1a"/>
+      
+      <!-- Руки -->
+      <!-- Левая рука -->
+      <rect x="110" y="185" width="12" height="35" fill="#fdbcb4"/>
+      <rect x="105" y="180" width="10" height="12" fill="#fdbcb4"/>
       <!-- Кулак -->
-      <circle cx="60" cy="175" r="8" fill="#e8c4a0"/>
-    </g>
-    
-    <g class="rightArm">
-      <path d="M127 130 Q150 135 165 150 Q172 158 170 165 Q167 168 162 165 Q148 148 132 140Z" fill="#e8c4a0"/>
-      <rect x="158" y="157" width="14" height="12" rx="3" fill="#1a1a1a"/>
+      <rect x="102" y="215" width="14" height="14" fill="#fdbcb4"/>
+      <rect x="100" y="213" width="6" height="8" fill="#1a1a1a"/>
+      
+      <!-- Правая рука -->
+      <rect x="198" y="185" width="12" height="35" fill="#fdbcb4"/>
+      <rect x="205" y="180" width="10" height="12" fill="#fdbcb4"/>
       <!-- Кулак -->
-      <circle cx="168" cy="170" r="8" fill="#e8c4a0"/>
+      <rect x="204" y="215" width="14" height="14" fill="#fdbcb4"/>
+      <rect x="214" y="213" width="6" height="8" fill="#1a1a1a"/>
+      
+      <!-- Голова -->
+      <rect x="135" y="110" width="50" height="55" fill="#fdbcb4"/>
+      
+      <!-- Волосы  -->
+      <rect x="133" y="105" width="54" height="12" fill="#5c4033"/>
+      <rect x="130" y="110" width="6" height="25" fill="#5c4033"/>
+      <rect x="184" y="110" width="6" height="25" fill="#5c4033"/>
+      <rect x="135" y="102" width="50" height="6" fill="#5c4033"/>
+      
+      <!-- Лицо -->
+      <!-- Глаза -->
+      <rect x="145" y="130" width="10" height="8" fill="#1a1a1a"/>
+      <rect x="165" y="130" width="10" height="8" fill="#1a1a1a"/>
+      <rect x="147" y="132" width="4" height="4" fill="#ffffff"/>
+      <rect x="167" y="132" width="4" height="4" fill="#ffffff"/>
+      
+      <!-- Брови ) -->
+      <rect x="143" y="125" width="12" height="3" fill="#5c4033"/>
+      <rect x="165" y="125" width="12" height="3" fill="#5c4033"/>
+      
+      <!-- Нос -->
+      <rect x="156" y="142" width="8" height="10" fill="#e8a898"/>
+      
+      <!-- Рот -->
+      <rect x="150" y="155" width="20" height="4" fill="#1a1a1a"/>
+      
+      <!-- Эффект энергии -->
+      <rect x="90" y="150" width="4" height="4" fill="#ff6b6b" opacity="0.7">
+        <animate attributeName="opacity" values="0.7;0.3;0.7" dur="1.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="226" y="170" width="4" height="4" fill="#ff6b6b" opacity="0.5">
+        <animate attributeName="opacity" values="0.5;0.2;0.5" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="100" y="200" width="3" height="3" fill="#ffd700" opacity="0.6">
+        <animate attributeName="opacity" values="0.6;0.3;0.6" dur="1.8s" repeatCount="indefinite"/>
+      </rect>
     </g>
-    
-    <!-- Голова -->
-    <ellipse cx="110" cy="85" rx="26" ry="30" fill="#e8c4a0"/>
-    
-    <!-- Волосы (взъерошенные) -->
-    <path d="M84 80 Q82 55 100 50 Q110 48 120 50 Q138 55 136 80 Q134 65 120 62 Q110 60 100 62 Q86 65 84 80Z" fill="#2c1810"/>
-    <path d="M95 55 Q100 45 110 47 Q105 52 100 58Z" fill="#2c1810"/>
-    
-    <!-- Лицо (агрессивное выражение) -->
-    <!-- Глаза (сосредоточенные) -->
-    <path d="M98 78 Q103 76 107 78" stroke="#1a1a1a" stroke-width="2" fill="none"/>
-    <path d="M113 78 Q118 76 122 78" stroke="#1a1a1a" stroke-width="2" fill="none"/>
-    <circle cx="102" cy="82" r="3" fill="#1a1a1a"/>
-    <circle cx="118" cy="82" r="3" fill="#1a1a1a"/>
-    
-    <!-- Брови (нахмуренные) -->
-    <path d="M96 73 Q103 70 108 73" stroke="#2c1810" stroke-width="2" fill="none"/>
-    <path d="M112 73 Q117 70 124 73" stroke="#2c1810" stroke-width="2" fill="none"/>
-    
-    <!-- Рот (решительный) -->
-    <path d="M102 100 Q110 103 118 100" stroke="#1a1a1a" stroke-width="2" fill="none"/>
-    
-    <!-- Эффект энергии вокруг -->
-    <circle cx="180" cy="100" r="3" fill="#ff6b6b" opacity="0.8">
-      <animate attributeName="r" values="3;6;3" dur="1.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="1.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="190" cy="140" r="2" fill="#ff6b6b" opacity="0.6">
-      <animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/>
-    </circle>
   </g>
 </svg>
