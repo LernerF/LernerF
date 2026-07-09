@@ -8,10 +8,15 @@ Building reliable data systems.
 
 </div>
 
-<!-- Пиксельный борец справа -->
-<div align="right" style="margin-top: -450px; margin-right: 50px;">
+<!-- Пиксельный борец слева -->
+<div align="left" style="margin-bottom: 20px;">
   <img src="https://github.com/LernerF/LernerF/blob/main/Wrest.png?raw=true" width="180" alt="Wrest"/>
 </div>
+
+<!-- Анимированный текст -->
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=typing&color=e63946&height=50&section=header&text=Building%20reliable%20data%20pipelines...&fontSize=20&fontColor=ffffff&animation=twinkle" alt="Typing"/>
+</h3>
 
 ---
 
@@ -87,17 +92,11 @@ Implementation of matrix computations using CUDA.
 
 ---
 
-## 📬 Contacts
+##  Contacts
 
 <p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:felixler2005@icloud.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -106,7 +105,5 @@ Implementation of matrix computations using CUDA.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer"/>
-
-*Engineering with discipline.*
 
 </div>
