@@ -7,7 +7,7 @@
 Building reliable data systems.
 
 <!-- Пиксельный борец -->
-<img src="https://github.com/LernerF/LernerF/blob/main/wrestler.svg" width="200" alt="Wrestler"/>
+<img src="https://github.com/LernerF/LernerF/blob/main/wrestler.png?raw=true" width="200" alt="Pixel Wrestler"/>
 
 </div>
 
@@ -55,7 +55,7 @@ Outside of engineering, I enjoy freestyle wrestling, which has taught me discipl
 
 ## Projects
 
-###  Data Warehouse
+### 📊 Data Warehouse
 
 Analytical database based on the Snowflake schema.
 
@@ -85,16 +85,16 @@ Implementation of matrix computations using CUDA.
 
 ---
 
-##  Contacts
+## 📬 Contacts
 
 <p align="center">
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/...">
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -103,7 +103,6 @@ Implementation of matrix computations using CUDA.
 
 <div align="center">
 
-<!-- Анимированная линия -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer"/>
 
 *Engineering with discipline.*
