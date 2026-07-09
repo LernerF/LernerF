@@ -2,9 +2,9 @@
 
 # Felix Lerner
 
-### Data Engineer @ RWB • Applied Mathematics & Informatics Student
+### Data Engineer @ RWB
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Data+Systems;Python+%7C+SQL+%7C+PostgreSQL+%7C+Spark;Always+Learning.+Always+Improving."/>
+Building reliable data systems.
 
 </div>
 
@@ -12,89 +12,68 @@
 
 ## About
 
-I'm a **Data Engineer** passionate about designing scalable data systems and building reliable ETL/ELT pipelines.
+I'm a Data Engineer currently working at **RWB** and studying **Applied Mathematics & Informatics**.
 
-Currently studying **Applied Mathematics & Informatics**, while exploring distributed systems, backend development and modern data technologies.
+I'm passionate about designing reliable data pipelines, solving engineering problems and continuously improving my technical skills.
 
-Outside of engineering I practice **freestyle wrestling**, which has taught me discipline, consistency and continuous improvement.
+Outside of engineering, I enjoy freestyle wrestling, which has taught me discipline, consistency and resilience.
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
-<p>
+`Python` `SQL` `Go` `C++`
 
-<img src="https://skillicons.dev/icons?i=python,go,cpp,c,bash"/>
+**Data**
 
-</p>
+`PostgreSQL` `Apache Spark` `Kafka` `ClickHouse`
 
-### Data Engineering
+**Tools**
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux,git"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
-
-<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge"/>
-
-</p>
+`Docker` `Git` `Linux`
 
 ---
 
-## Current Interests
+## Projects
 
-- Data Engineering
-- Distributed Systems
-- Apache Spark
-- High-performance Python
-- Backend Development
+### Data Warehouse
 
----
+Analytical database based on the Snowflake schema.
 
-## Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 📦 Data Warehouse | Snowflake schema & analytical database |
-| ⚡ CUDA Matrix Solver | GPU programming with CUDA |
-| 📊 ETL Pipeline | Python + PostgreSQL |
-| 🤖 Telegram Analytics | Python automation & analytics |
+**Stack:** SQL • PostgreSQL
 
 ---
 
-## Connect with Me
+### ETL Pipeline
 
-<p>
+A Python pipeline for collecting, transforming and loading data.
 
-<a href="mailto:felixler2005@icloud.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://t.me/scoreset">
-
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-</p>
+**Stack:** Python • PostgreSQL
 
 ---
+
+### CUDA Matrix Solver
+
+Implementation of matrix computations using CUDA.
+
+**Stack:** CUDA • C++
+
+---
+
+## Contacts
+
+Telegram: **@your_username**
+
+Email: **your@email.com**
+
+LinkedIn: **linkedin.com/in/...**
+
+---
+
+<div align="center">
+
+*Engineering with discipline.*
+
+</div>
