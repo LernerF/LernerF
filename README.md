@@ -1,128 +1,118 @@
-<h1 align="center">Hi 👋, I'm Felix Lerner</h1>
-<h3 align="center">Data Engineer @ RWB | Applied Mathematics & Informatics Student | Python & Big Data Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Data+Engineer+%40+RWB;Applied+Mathematics+Student;Building+Data+Pipelines;Python+%7C+SQL+%7C+PostgreSQL+%7C+Spark;Always+Learning+Something+New" />
-</p>
+# Felix Lerner
 
----
+### Data Engineer @ RWB • Applied Mathematics & Informatics Student
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Data+Systems;Python+%7C+SQL+%7C+PostgreSQL+%7C+Spark;Always+Learning.+Always+Improving."/>
 
-- 💼 **Data Engineer @ RWB**
-- 🎓 Applied Mathematics & Informatics student
-- 📊 Interested in **Data Engineering**, **Data Science** and **Backend Development**
-- 🐍 Passionate about Python and data processing
-- 🥋 Freestyle Wrestling Athlete
-- 🚀 Always looking for challenging projects and opportunities to grow
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## About
+
+I'm a **Data Engineer** passionate about designing scalable data systems and building reliable ETL/ELT pipelines.
+
+Currently studying **Applied Mathematics & Informatics**, while exploring distributed systems, backend development and modern data technologies.
+
+Outside of engineering I practice **freestyle wrestling**, which has taught me discipline, consistency and continuous improvement.
+
+---
+
+## Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,go,java,bash" />
-</p>
 
-### Databases
+<img src="https://skillicons.dev/icons?i=python,go,cpp,c,bash"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 ### Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux,git"/>
+
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
+
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka"/>
+
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
+
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🚀 Current Focus
+## Current Interests
 
-- Building scalable ETL/ELT pipelines
-- Data Warehousing
-- PostgreSQL
-- Apache Spark
+- Data Engineering
 - Distributed Systems
-- Cloud Technologies
+- Apache Spark
 - High-performance Python
+- Backend Development
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LernerF&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LernerF&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LernerF&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LernerF&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=LernerF&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Featured Projects
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LernerF&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LernerF&theme=tokyo-night"/>
-
-</p>
+| Project | Description |
+|----------|-------------|
+| 📦 Data Warehouse | Snowflake schema & analytical database |
+| ⚡ CUDA Matrix Solver | GPU programming with CUDA |
+| 📊 ETL Pipeline | Python + PostgreSQL |
+| 🤖 Telegram Analytics | Python automation & analytics |
 
 ---
 
-## 📫 Contacts
+## Connect with Me
 
 <p>
 
 <a href="mailto:felixler2005@icloud.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://t.me/scoreset">
+
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<i>"First solve the problem. Then write the code."</i>
+### Engineering with discipline.
 
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/LernerF/LernerF/output/github-contribution-grid-snake-dark.svg">
-
-</p>
+</div>
