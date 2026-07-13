@@ -30,8 +30,6 @@ Recently, I completed gained practical experience in building data pipelines, wo
 
 My primary interests include designing reliable data infrastructure, developing scalable ETL processes and continuously improving software quality through clean, maintainable code.
 
-Outside of software engineering, I practice **freestyle wrestling**
-
 ---
 
 # Technologies
@@ -61,38 +59,6 @@ Outside of software engineering, I practice **freestyle wrestling**
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
-
-# Projects
-
-### 📊 Data Warehouse
-
-Analytical data warehouse based on the **Snowflake** schema.
-
-**Stack**
-
-`SQL` • `PostgreSQL`
-
----
-
-### 🔄 ETL Pipeline
-
-Python ETL pipeline for collecting, transforming and loading data into relational databases.
-
-**Stack**
-
-`Python` • `PostgreSQL`
-
----
-
-### ⚡ CUDA Matrix Solver
-
-High-performance matrix computations implemented using CUDA.
-
-**Stack**
-
-`CUDA` • `C++`
 
 ---
 
