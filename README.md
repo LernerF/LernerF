@@ -1,7 +1,7 @@
 <div align="center">
 
 # LernerF
-```
+
 </div>
 
 <table>
@@ -19,7 +19,7 @@
 </td>
 </tr>
 </table>
-```
+
 ---
 
 # About
